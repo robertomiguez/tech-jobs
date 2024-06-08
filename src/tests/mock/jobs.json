@@ -1,0 +1,32 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Job 1",
+      "type": "Full-Time",
+      "description": "This is a job description 1",
+      "location": "New York",
+      "salary": "Under $50K",
+      "company": {
+        "name": "new Company",
+        "description": "This is a company description 1",
+        "contactEmail": "test1@test.co",
+        "contactPhone": "+440000000001"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Job 2",
+      "type": "Part-Time",
+      "description": "This is a job description 2",
+      "location": "San Francisco",
+      "salary": "Under $60K",
+      "company": {
+        "name": "new Company 2",
+        "description": "This is a company description 2",
+        "contactEmail": "test2@test.co",
+        "contactPhone": "+440000000002"
+      }
+    }
+  ]
+}
